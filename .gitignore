@@ -1,0 +1,14 @@
+# THE FOUR HORSEMEN
+node_modules
+.node_modules
+.env
+.DS_Store
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+.env.test
+
