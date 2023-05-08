@@ -30,6 +30,7 @@ Category.hasMany(Product, {
   foreignKey: 'category_id', 
 });
 
+
 // Export models
 module.exports = {
   Product,
