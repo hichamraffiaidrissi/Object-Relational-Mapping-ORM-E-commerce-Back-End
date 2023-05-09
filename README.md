@@ -39,10 +39,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## Screenshots:
-
-
-
-
+![](./public/assets/Images/Screenshot-1.png)
+![](./public/assets/Images/Screenshot-2.png)
+![](./public/assets/Images/Screenshot-3.png)
 
 ## What I Learned:
 1. How to use Express.js to create a functional back end for an e-commerce website.
@@ -54,7 +53,7 @@ THEN I am able to successfully create, update, and delete data in my database
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
-### Copyright © 2023 Thomas Calle
+### Copyright © 2023 
 ```md
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
